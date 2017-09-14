@@ -5,6 +5,7 @@ public class MainTest {
      */
     public static void main(String[] args) {
         File f = new File("E:\\workspace1783\\bpm\\src\\main\\java\\cn\\xdf\\bpm\\bj\\modules\\studyservice\\web");
+        System.out.println("test666");
         boolean b = false;
         try {
             fileList(f);
